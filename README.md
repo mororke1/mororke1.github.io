@@ -1,4 +1,4 @@
-
+https://mororke1.github.io/
 
 **Morgan O’Rorke**
 
@@ -95,7 +95,7 @@ systems modeling, and requirements management
 
 Active U.S. Department of Defense Secret clearance  
 4 US Patents Granted  
-14 US Patents Pending  
+18 US Patents Pending  
 ACE Associate + Six Sigma (Green Belt)  
 
 </div>
